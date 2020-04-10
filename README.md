@@ -1,6 +1,4 @@
-# Template README
-
-## Nome do Projeto
+## Desafio 02 - Conceitos ReactJS - Bootcamp GoStack
 
 ### ✏️Projeto
 
