@@ -9,9 +9,6 @@ Desafio proposto pelo Bootcamp GoStack da Rocketseat, para fixar o aprendizado, 
 - [ReactJS](https://reactjs.org/)
 - [Babel](https://babeljs.io/)
 - [Webpack](https://webpack.js.org/)
-- [Node.js](https://nodejs.org/en/)
-- [Express](https://expressjs.com/)
-- [Nodemon](https://nodemon.io/)
 - [Cors](https://www.npmjs.com/package/cors)
 - [Jest](https://jestjs.io/)
 
